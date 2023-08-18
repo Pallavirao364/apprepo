@@ -1,0 +1,10 @@
+Write a shell script to move the files which has 10 lines in a file to diff directory ---done
+Script to check valid ip address
+Script to combine Two array and sort in asending order --done
+Script to run the job every first monday before sunday need to come in that month 
+Write a shell script to display the last updated file or the newest file in a directory. --done
+Print the current date, time, username, and current working directory. --done
+Write a shell script that adds an extension “.new” to all the files in a directory. --done
+Write a shell script to print a number in reverse order. It should support the following requirements. --done
+ 1.The script should accept the input from the command line.
+ 2.If you don’t input any data, then display an error message to execute the script correctly.
