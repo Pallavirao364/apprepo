@@ -7,3 +7,4 @@ Print the current date, time, username, and current working directory. --done
 Write a shell script that adds an extension “.new” to all the files in a directory. --done
 Write a shell script to print a number in reverse order. It should support the following requirements. --done
  2.If you don’t input any data, then display an error message to execute the script correctly.
+Write a shell script to find prime num
