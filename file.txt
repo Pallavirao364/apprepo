@@ -1,1 +1,39 @@
-#adding comments
+r Selling Partner,
+
+We are contacting you as you indicated the product you wish to list should not be subject to the compliance documents. We have reviewed your request and have concluded that your product is a toy and subject to the compliance requirements.
+
+Why is your product classified as toy?
+Due to European Directive and Standard regulations, as well as Amazon’s requirements, products are classified as toys depending on various characteristics, including their play value, child-appealing characteristics, manufacturer recommended minimum age, as well as other factors.
+
+If you would like to list toys on Amazon, please apply by submitting the following items:
+(a) Genuine product images or its packaging showing:
+(1) CE marking;
+(2) Brand owner’s name or registered trademark, and the address where the brand can be contacted;
+(3) Product Identifier.
+(b) EC Declaration of Conformity - This document can be obtained from the brand owner, EU/UK importer or EU/UK authorized representative.
+We kindly inform you that the EC Declaration of Conformity must contain:
+• Product Identifier (product image or model number or product description corresponding to provided product images)
+• Toys Directive 2009/48/EC and/or other applicable directives
+• EN 71-1: Mechanical and physical properties and/or other applicable EN standards
+• Signature, name, function of the signatory
+
+In order to list a toy on Amazon you must submit certain documents. For more information on the documentation requested, please visit:
+
+https://sellercentral-europe.amazon.com/gp/help/help.html?itemID=5B4NM4845JC8TUM&
+
+This toy may be removed if the compliance documents are not received. 
+
+Why is this happening?
+The documents we are requesting help ensure products are compliant with local laws and safe for customers.
+
+How do I provide the requested documents?
+
+1. In Seller Central, select the Performance tab and choose Account Health.
+2. Under Manage your compliance in the bottom right corner, click Product Compliance Requests.
+3. To add compliance or appeal for a product, click Add/Appeal Compliance. 
+4. Provide compliance documents and information in the Provide Documents section, or provide appeal information in the Appeal Request section.
+5. Click Submit for Approval to send your submission for review by Amazon.
+
+We will respond to your application as soon as it is reviewed.
+
+ We appreciate your cooperation and thank you for listing on Amazon.
