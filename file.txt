@@ -28,11 +28,6 @@ The documents we are requesting help ensure products are compliant with local la
 
 How do I provide the requested documents?
 
-1. In Seller Central, select the Performance tab and choose Account Health.
-2. Under Manage your compliance in the bottom right corner, click Product Compliance Requests.
-3. To add compliance or appeal for a product, click Add/Appeal Compliance. 
-4. Provide compliance documents and information in the Provide Documents section, or provide appeal information in the Appeal Request section.
-5. Click Submit for Approval to send your submission for review by Amazon.
 
 We will respond to your application as soon as it is reviewed.
 
